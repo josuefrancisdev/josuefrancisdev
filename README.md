@@ -100,3 +100,25 @@ env/
 *.bak
 __pycache__/
 node_modules/
+# Calculadora de Orçamento Pessoal
+
+Este projeto é uma aplicação simples desenvolvida para ajudar no controle financeiro pessoal. 
+
+## Objetivo
+Criar uma ferramenta fácil de usar para gerenciar receitas, despesas e visualizar o saldo mensal.
+
+## Tecnologias Utilizadas
+- HTML, CSS e JavaScript para a interface web.
+- Foco em responsividade para uso em dispositivos móveis.
+
+## O que aprendi
+- Manipulação do DOM com JavaScript.
+- Conceitos básicos de layout responsivo.
+- Estruturação de projetos simples para web.
+
+## Como usar
+1. Clone ou baixe o projeto.
+2. Abra o arquivo `index.html` em seu navegador.
+3. Insira suas receitas e despesas para acompanhar seu orçamento.
+
+---
