@@ -14,20 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Sobre Mim
 
-Olá! Eu sou **Josué Francis**, estudante dedicado de Ciência da Computação e entusiasta de tecnologia e inovação. 🚀
+# 👋 Olá, eu sou Josué Francis! 🚀
 
-💡 Apaixonado por criar soluções práticas e eficientes, estou focado no desenvolvimento de aplicações móveis e na construção de um portfólio sólido que demonstre minhas habilidades técnicas e criatividade.
-
-🎯 Meu objetivo é me tornar um profissional versátil, sempre aprendendo e superando desafios, contribuindo para projetos relevantes e conectando-me com a comunidade tecnológica.
-
-🔗 Vamos conectar e crescer juntos!  
+Sou estudante de **Ciências da Computação** e entusiasta apaixonado por **tecnologia e inovação**.  
+Meu foco é criar soluções eficientes e inovadoras que impactem positivamente o mundo.
 
 ---
 
-📫 **Contato:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+## 💡 Minhas Competências
 
----![Minha Foto](URL-da-imagem-aqui)
+- 💻 Desenvolvimento de software com foco em qualidade e performance  
+- 🚀 Proatividade e aprendizado contínuo  
+- 🤝 Trabalho colaborativo e comunicação efetiva  
+- 📱 Desenvolvimento mobile e tecnologias emergentes  
+
+---
+
+## 🎯 Meu Objetivo
+
+Ampliar minhas habilidades em desenvolvimento de sistemas, participar de projetos inovadores e colaborar com profissionais que buscam transformar o mundo por meio da tecnologia.  
+Estou aberto a **conexões, parcerias e novos desafios** para crescer junto com a comunidade tech!
+
+---
+
+## 📲 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://cern.ch/seunome)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seunome)  
+
+---
+
+![Minha Foto](https://raw.githubusercontent.com/seuusuario/seurepositorio/main/foto.png)
