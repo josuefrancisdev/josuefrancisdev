@@ -1,4 +1,4 @@
-# Olá, eu sou Josué France 👋
+# Olá, eu sou Josué Francis 👋
 
 🎓 Estudante de Ciência da Computação  
 💻 Foco em soluções para dispositivos móveis  
