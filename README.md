@@ -121,4 +121,27 @@ Criar uma ferramenta fácil de usar para gerenciar receitas, despesas e visualiz
 2. Abra o arquivo `index.html` em seu navegador.
 3. Insira suas receitas e despesas para acompanhar seu orçamento.
 
----
+---# Ignorar arquivos de sistema do macOS
+.DS_Store
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de build/compilação
+dist/
+build/
+
+# Ignorar arquivos temporários do editor
+*.swp
+*.swo
+*.tmp
+
+# Ignorar configurações pessoais do VS Code
+.vscode/
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.py[cod]
