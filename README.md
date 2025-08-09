@@ -145,3 +145,17 @@ build/
 # Ignorar arquivos Python compilados
 __pycache__/
 *.py[cod]
+def calcular_orcamento(receita, despesas):
+    saldo = receita - despesas
+    if saldo > 0:
+        return f"Você está economizando R$ {saldo:.2f} este mês."
+    elif saldo == 0:
+        return "Seu orçamento está equilibrado este mês."
+    else:
+        return f"Você está no déficit de R$ {abs(saldo):.2f} este mês."
+
+# Exemplo de uso:
+receita_mensal = 3500
+despesas_mensais = 2800
+
+print(calcular_orcamento(receita_mensal, despesas_mensais))
