@@ -94,3 +94,9 @@ celerybeat-schedule
 venv/
 ENV/
 env/
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.bak
+__pycache__/
+node_modules/
