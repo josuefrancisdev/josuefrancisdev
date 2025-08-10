@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📊 Trabalho Acadêmico: Calculadora de Orçamento Pessoal
+
+---
+
+## 🎯 Apresentação
+
+Este trabalho acadêmico apresenta o desenvolvimento de uma **Calculadora de Orçamento Pessoal**, que visa auxiliar o usuário no controle financeiro mensal.
+
+O projeto foi elaborado com base nos conhecimentos técnicos adquiridos durante o curso, contemplando as linguagens **HTML**, **CSS** e **JavaScript** para a criação de uma interface funcional e intuitiva.
+
+🔗 **Links importantes:**  
+- 👤 [Perfil LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- 💻 [Repositório GitHub do Projeto](https://github.com/seu-usuario/seu-projeto)  
+- 🖥️ [Calculadora Funcionando (JSFiddle)](https://jsfiddle.net/seu-link-aqui)
+
+---
+
+### 📌 Hashtags
+
+#TrabalhoAcadêmico #CalculadoraDeOrçamento #HTML #CSS #JavaScript #ProgramaçãoWeb #GerenciamentoDeEstado #ProjetoAcadêmico #ControleFinanceiro #DesenvolvimentoWeb
+
+---
+
+## 🛠️ Projeto da Calculadora de Orçamento Pessoal
+
+A calculadora permite que o usuário insira sua renda e despesas mensais, realizando cálculos automáticos para controlar seu orçamento pessoal.
+
+⚙️ **Tecnologias utilizadas:**  
+- 🏗️ **HTML** – estrutura da página  
+- 🎨 **CSS** – estilo visual e layout responsivo  
+- 📜 **JavaScript** – lógica, manipulação de dados e atualização dinâmica da interface
+
+📌 O gerenciamento de estado foi um ponto fundamental no projeto, garantindo que as informações inseridas pelo usuário fossem atualizadas e refletidas instantaneamente na calculadora.
+
+---
+
+## ✅ Conclusão
+
+O desenvolvimento desta Calculadora de Orçamento Pessoal permitiu aplicar e aprofundar conhecimentos em programação web, especialmente na integração entre as linguagens HTML, CSS e JavaScript.
+
+🚧 Durante o projeto, enfrentamos desafios relacionados ao gerenciamento de estado, lógica de cálculo e validação de entrada do usuário, que foram solucionados por meio de testes e refinamentos contínuos.
+
+💡 Este trabalho demonstra a importância da organização do código e do planejamento para a criação de aplicações funcionais e acessíveis.
+
+🔮 Para futuros aprimoramentos, a calculadora poderá incluir funcionalidades adicionais como gráficos de análise financeira e exportação de dados.
