@@ -14,3 +14,69 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f5f9;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 700px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #0077cc;
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.input-group input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.input-group button {
+    background: #0077cc;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.input-group button:hover {
+    background: #005fa3;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table th, table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+.resultado {
+    text-align: right;
+    font-size: 1.2em;
+    margin-top: 15px;
+}
