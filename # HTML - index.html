@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Orçamento</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Orçamento</h1>
+        
+        <div class="input-group">
+            <input type="text" id="descricao" placeholder="Descrição do item">
+            <input type="number" id="quantidade" placeholder="Quantidade" min="1">
+            <input type="number" id="preco" placeholder="Preço unitário" min="0" step="0.01">
+            <button id="adicionar">Adicionar</button>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Descrição</th>
+                    <th>Quantidade</th>
+                    <th>Preço Unitário</th>
+                    <th>Total</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody id="lista-itens"></tbody>
+        </table>
+
+        <div class="resultado">
+            <strong>Total Geral: R$ <span id="total-geral">0,00</span></strong>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
